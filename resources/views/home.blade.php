@@ -508,7 +508,7 @@
 
 </div>
 <script>
-    const apiUrl = "https://90ddmg6isj.execute-api.eu-north-1.amazonaws.com/instance/power_instance"
+    const apiUrl = ""
     const instances = [
         "i-046a3f830586e8dd7",
         "i-0548025ddebe1cbf9",
